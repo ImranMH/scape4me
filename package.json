@@ -1,0 +1,28 @@
+{
+  "name": "scape4me",
+  "version": "0.1.1",
+  "description": "a simple html entity module",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImranMH/scape4me.git"
+  },
+  "keywords": [
+    "escape",
+    "entities",
+    "html"
+  ],
+  "author": "Imran Hossain <imran096@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImranMH/scape4me/issues"
+  },
+  "homepage": "https://github.com/ImranMH/scape4me#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
